@@ -29,7 +29,7 @@ Others may have lower average responses indicating areas of concern such as  "Fa
 ### Question 3: Recommendations for Improving Employee Satisfaction
 ### Improve Recognition Programs:
 -The question with the most disagreement was related to receiving recognition or praise for good work.
--Implement a structured recognition program to ensure employees feel valued.
+-Implementation of  a structured recognition program to ensure employees feel valued.
 ### Clear Communication of Expectations:
 -The most agreed question was about knowing what is expected at work.
 -Continue to provide clear guidelines and expectations to maintain this high level of agreement.
