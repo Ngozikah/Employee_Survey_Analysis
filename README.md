@@ -1,6 +1,11 @@
 # Employee_Survey_Analysis
+
+## Overview
 This repository contains the analysis of the Employee Engagement Survey responses conducted by Pierce County, WA. The dataset includes responses from 14,725 government employees, focusing on agreement and disagreement with survey questions, patterns by department or role, and recommendations to improve employee satisfaction. 
  Employee Survey Analysis.
+ 
+ 
+![Employee Survey Response_n](https://github.com/Ngozikah/Employee_Survey_Analysis/assets/170735868/26433899-cf68-47f4-9f7b-ceb2bd26d9b5)
 
 ## Data Description
 - **Survey Question**: The question asked in the survey.
@@ -11,6 +16,9 @@ This repository contains the analysis of the Employee Engagement Survey response
 - **Strongly Disagree**: Number of respondents who strongly disagreed.
 - **Grand Total**: Total number of responses.
 
+## Tools Used
+- Microsoft Excel
+  
 ## Analysis
 ### Question 1: Agreement and Disagreement
 - Most Agreed Question: "1. I know what is expected of me at work" Strongly Agree:846 Agree: 496
@@ -19,7 +27,7 @@ This repository contains the analysis of the Employee Engagement Survey response
 
 ### Question 2: Trends or Patterns by Department or Role
 ### Patterns by Department:
--Some departments consistently have higher average responses indicating higher satisfaction such as Human Resources.
+-Some departments consistently have higher average responses indicating higher satisfaction such as the  Assessor-Treasurer's Office and  Human Resources.
 Others may have lower average responses indicating areas of concern such as  "Facilities Management".
 ### Patterns by Role:
 -Directors and Managers often have higher average responses indicating higher satisfaction compared to Staff.
@@ -31,7 +39,7 @@ Others may have lower average responses indicating areas of concern such as  "Fa
 -The question with the most disagreement was related to receiving recognition or praise for good work.
 -Implementation of  a structured recognition program to ensure employees feel valued.
 ### Clear Communication of Expectations:
--The most agreed question was about knowing what is expected at work.
+-The most agreed-upon question was about knowing what is expected at work.
 -Continue to provide clear guidelines and expectations to maintain this high level of agreement.
 ### Department-Specific Interventions:
 -Focus on departments with lower average satisfaction scores.
